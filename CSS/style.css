@@ -42,3 +42,87 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+
+/* Failure-section */
+
+.failure {
+    margin-top: 130px;
+}
+
+.failure-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 87px;
+}
+
+.failure-section img {
+    width: 569px;
+    height: 723.3px;
+    margin-left: 206px;
+}
+
+.description {
+    margin-right: 280px;
+    text-align: left;
+}
+
+.description h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.description p {
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.description ul {
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+
+/*Plans */
+
+.plans {
+    margin-top: 130.7px;
+}
+
+.plans h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.plans .box-model {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
+    gap: 86px;
+}
+
+.plans .box-model .box {
+    text-align: center;
+    width: 240px;
+}
+
+.plans .box-model .box img {
+    width: 80.45px;
+    height: 80.45px;
+}
+
+.plans .box-model .box h6 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+.plans .box-model .box p {
+    margin-top: 10px;
+    font-size: 14px;
+}
